@@ -7,15 +7,7 @@
  C programming book: K. N. King-C Programming_ A Modern Approach-W. W. Norton & Company (2008)
 
  ### Website for Practicing C programs 
- https://www.hackerrank.com/
-
- ## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+ - https://www.hackerrank.com/
 
 
 ### C project ideas for inspiration
