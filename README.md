@@ -2,7 +2,7 @@
 
 ## C programming
  ### Study Matrial
- complete C programming playlist NESO: https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
+ complete C programming playlist NESO: [NESO Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 
  C programming book: K. N. King-C Programming_ A Modern Approach-W. W. Norton & Company (2008)
 
