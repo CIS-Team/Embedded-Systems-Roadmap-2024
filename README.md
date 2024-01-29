@@ -1,5 +1,12 @@
 # Embedded-Systems-Roadmap-2024
 ## computer science 
+### basic knowledge for electronics
+### basic knowledge for operating systems
+### basic knowledge for networks
+### basic knowledge for OOP
+
+
+
 ## C programming
  ### Study Matrial
  complete c programming playlist NESO: https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
