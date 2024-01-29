@@ -6,7 +6,19 @@
 
  C programming book: K. N. King-C Programming_ A Modern Approach-W. W. Norton & Company (2008)
 
-### c project ideas for inspiration
+ ### Website for Practicing C programs 
+ https://www.hackerrank.com/
+
+ ## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+### C project ideas for inspiration
 1- Payement Application
 
 2- Student Recored System
@@ -35,6 +47,9 @@ MCU Fundamentals session
 ## MCU interfacing
 
 interfacing using Atmega32 microcontroller
+
+## Problem Solving
+
 
 ## computer science 
 1- basic knowledge for electronics
