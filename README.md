@@ -2,9 +2,9 @@
 
 ## C programming
  ### Study Matrial
- complete c programming playlist NESO: https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
+ complete C programming playlist NESO: https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR
 
- c programming book: K. N. King-C Programming_ A Modern Approach-W. W. Norton & Company (2008)
+ C programming book: K. N. King-C Programming_ A Modern Approach-W. W. Norton & Company (2008)
 
 ### c project ideas for inspiration
 1- Payement Application
@@ -18,6 +18,11 @@
  linked list:  https://www.youtube.com/watch?v=R9PTBwOzceo&list=PLpYOpjNLz0aGIL9xaFHbw16uEmFxzy2rs
  
  Data structures: https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca
+
+ sorting algorithms:
+
+ searching algorithms:
+ 
 ## Embedded C
 ### compilation process 
 compilation process session
@@ -29,6 +34,7 @@ MCU Fundamentals session
 
 ## MCU interfacing
 
+interfacing using Atmega32 microcontroller
 
 ## computer science 
 1- basic knowledge for electronics
