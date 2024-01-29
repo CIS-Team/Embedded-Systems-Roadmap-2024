@@ -1,11 +1,4 @@
 # Embedded-Systems-Roadmap-2024
-## computer science 
-### basic knowledge for electronics
-### basic knowledge for operating systems
-### basic knowledge for networks
-### basic knowledge for OOP
-
-
 
 ## C programming
  ### Study Matrial
@@ -35,5 +28,18 @@ compilation process session
 MCU Fundamentals session
 
 ## MCU interfacing
+
+
+## computer science 
+1- basic knowledge for electronics
+
+2- basic knowledge for operating systems
+
+3- basic knowledge for networks
+
+4- basic knowledge for OOP
+
+
+
 
 
