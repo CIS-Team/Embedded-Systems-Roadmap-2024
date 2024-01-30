@@ -52,7 +52,7 @@ interfacing using Atmega32 microcontroller
 
 - basic knowledge for networks
 
-4- basic knowledge for OOP
+- basic knowledge for OOP
 
 
 
