@@ -11,22 +11,22 @@
 
 
 ### C project ideas for inspiration
-1- Payement Application
+- Payement Application
 
-2- Student Recored System
+- Student Recored System
 
-3- Books Library
+- Books Library
 
 ## Data Structure & Algorithms
  ### Study Matrial
- linked list:  [NESO Academy](https://www.youtube.com/watch?v=R9PTBwOzceo&list=PLpYOpjNLz0aGIL9xaFHbw16uEmFxzy2rs)
+- linked list:  [NESO Academy](https://www.youtube.com/watch?v=R9PTBwOzceo&list=PLpYOpjNLz0aGIL9xaFHbw16uEmFxzy2rs)
  
- Data structures: [Dr Waleed Youssif](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
+- Data structures: [Dr Waleed Youssif](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
 
- sorting algorithms: [Sorting Algorithms playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
+- sorting algorithms: [Sorting Algorithms playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
 
- searching algorithms: [Binary Search](https://youtu.be/kleyhFIsU5E?si=AF5bIkxAapUQN03v)
- A recommended Book :  Grokking Algorithms. 
+- searching algorithms: [Binary Search](https://youtu.be/kleyhFIsU5E?si=AF5bIkxAapUQN03v)
+- A recommended Book :  Grokking Algorithms. 
  
 ## Embedded C
 ### compilation process 
@@ -46,11 +46,11 @@ interfacing using Atmega32 microcontroller
 
 ## computer science 
 
-1- basic knowledge for electronics
+- basic knowledge for electronics
 
-2- basic knowledge for operating systems
+- basic knowledge for operating systems
 
-3- basic knowledge for networks
+- basic knowledge for networks
 
 4- basic knowledge for OOP
 
