@@ -30,9 +30,11 @@
  
 ## Embedded C
 ### compilation process 
+
 compilation process session
+
 ### MCU archticture 
-compilation process session
+MCU archticture session
 
 ## MCU Fundamentals
 MCU Fundamentals session
@@ -41,8 +43,14 @@ MCU Fundamentals session
 
 interfacing using Atmega32 microcontroller
 
-## Problem Solving
+## FreeRTOS 
+In Progress
 
+## ARM
+In Progress
+
+## Problem Solving
+[AL-Azhar Sheet](https://sites.google.com/view/azharicpc/) is a good start for you
 
 ## computer science 
 
