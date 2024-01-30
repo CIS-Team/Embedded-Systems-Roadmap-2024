@@ -19,13 +19,14 @@
 
 ## Data Strucrure & Algo
  ### Study Matrial
- linked list:  https://www.youtube.com/watch?v=R9PTBwOzceo&list=PLpYOpjNLz0aGIL9xaFHbw16uEmFxzy2rs
+ linked list:  [NESO Academy](https://www.youtube.com/watch?v=R9PTBwOzceo&list=PLpYOpjNLz0aGIL9xaFHbw16uEmFxzy2rs)
  
- Data structures: https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca
+ Data structures: [Dr Waleed Youssif](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
 
- sorting algorithms:
+ sorting algorithms: [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
 
- searching algorithms:
+ searching algorithms: [Binary Search](https://youtu.be/kleyhFIsU5E?si=AF5bIkxAapUQN03v)
+ A recommended Book :  Grokking Algorithms. 
  
 ## Embedded C
 ### compilation process 
