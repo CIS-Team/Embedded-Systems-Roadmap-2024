@@ -31,13 +31,13 @@
 ## Embedded C
 ### compilation process 
 
-compilation process session
+compilation process session Link:
 
 ### MCU archticture 
-MCU archticture session
+MCU archticture session Link:
 
 ## MCU Fundamentals
-MCU Fundamentals session
+MCU Fundamentals session Link:
 
 ## MCU Interfacing
 
