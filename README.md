@@ -37,12 +37,7 @@ before starting you should have a good knowledge about [Digital Design](https://
 
 ### C Building process
 
-`**preprocessor**`
-> **compiler**
-> **linker**
-> **toolchain**
-> **memory sections**
-> and others..
+`preprocessor`, `compiler`, `linker`, `toolchain`, `memory sections` and others..
 
 [Building Process in Embedded C](https://www.youtube.com/playlist?list=PLvi6ckOTPjGY3B-0WgYzjmE7eeLDLVws1)
 
