@@ -38,7 +38,12 @@ before starting you should have a good knowledge about [Digital Design](https://
 ### C Building process
 
 Learn the process behined getting the executable file from the source code ( C code ), including
-> preprocessor . , **compiler** , linker, toolchain, and memory sections, among others.
+> **preprocessor**
+> **compiler**
+> **linker**
+> **toolchain**
+> **memory sections**
+> and others..
 
 [Building Process in Embedded C](https://www.youtube.com/playlist?list=PLvi6ckOTPjGY3B-0WgYzjmE7eeLDLVws1)
 
