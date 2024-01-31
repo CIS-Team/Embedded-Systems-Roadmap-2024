@@ -41,7 +41,7 @@ Learn the process behined getting the executable file from the source code ( C c
 <div style="background-color: hsl(120, 100%, 50%);">This is a shade of green.</div>
 
 
-> - **preprocessor**
+'**preprocessor***
 > **compiler**
 > **linker**
 > **toolchain**
