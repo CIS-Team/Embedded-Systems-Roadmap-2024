@@ -37,7 +37,7 @@ before starting you should have a good knowledge about [Digital Design](https://
 
 ### C Building process
 
-'**preprocessor**'
+`**preprocessor**`
 > **compiler**
 > **linker**
 > **toolchain**
