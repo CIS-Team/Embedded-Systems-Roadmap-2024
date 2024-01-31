@@ -33,7 +33,7 @@
  
 ## Embedded C
 
-before starting you should have a good knowledge about [Digital Design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) and [Electrinics](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei) basics.
+before starting you should have a good knowledge about [Digital Design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) and [Electronics](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei) basics.
 
 ### C Building process
 
