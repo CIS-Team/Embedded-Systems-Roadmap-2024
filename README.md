@@ -34,7 +34,7 @@
 ## Embedded C
 
 before starting you should have a good knowledge about [Digital Design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) and [Electrinics](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei) basics.
-<div style="Red: #f0f0f0; padding: 10px; border: 1px solid #ccc;">
+<div style="Red": #f0f0f0; padding: 10px; border: 1px solid #ccc;">
   This is a highlighted or framed text block with a grey background.
 </div>
 
