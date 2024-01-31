@@ -1,5 +1,8 @@
 # Embedded-Systems-Roadmap-2024
 
+![image](https://github.com/CIS-Team/Embedded-Systems-Roadmap-2024/assets/112733878/dcf7055a-104a-4a43-bf30-88110c880605)
+
+
 ## C programming
  ### Study Matrial:
  complete C programming playlist NESO: [NESO Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
