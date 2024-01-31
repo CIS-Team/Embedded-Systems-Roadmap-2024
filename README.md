@@ -3,11 +3,11 @@
 ![image](https://github.com/CIS-Team/Embedded-Systems-Roadmap-2024/assets/112733878/dcf7055a-104a-4a43-bf30-88110c880605)
 
 
-## C programming
+## 💻: C programming
  ### Study Matrial:
  - 📽️ complete C programming playlist NESO: [NESO Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 
- - 📘 C programming book: K. N. King-C Programming_ A Modern Approach-W. W. Norton & Company (2008)
+ - 📘 [K. N. King-C Programming_ A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
 
  ### Website for Practicing C programs 
  - [Hacker Rank](https://www.hackerrank.com/)
@@ -29,7 +29,7 @@
 - 📽️ sorting algorithms: [Sorting Algorithms playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
 
 - 📽️ searching algorithms: [Binary Search](https://youtu.be/kleyhFIsU5E?si=AF5bIkxAapUQN03v)
-- 📘 Grokking Algorithms. 
+- 📘 [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) 
  
 ## Embedded C
 
