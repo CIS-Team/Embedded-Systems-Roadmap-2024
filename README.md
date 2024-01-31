@@ -38,9 +38,8 @@ before starting you should have a good knowledge about [Digital Design](https://
 ### C Building process
 
 Learn the process behined getting the executable file from the source code ( C code ), including
-<div style="background-color: #808080; padding: 10px; border: 1px solid #ccc;">
-  <p>This is text inside a grey box.</p>
-</div>
+<div style="background-color: hsl(120, 100%, 50%);">This is a shade of green.</div>
+
 
 > **preprocessor**
 > **compiler**
