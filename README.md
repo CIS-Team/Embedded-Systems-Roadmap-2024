@@ -42,11 +42,15 @@ Learning the process of getting the executable file from the source code (C code
 [Building Process in Embedded C](https://www.youtube.com/playlist?list=PLvi6ckOTPjGY3B-0WgYzjmE7eeLDLVws1)
 
 ### MCU archticture Fundamentals 
-MCU archticture session Link:
+[Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 1 - 9)
 
 ## MCU Interfacing
+ Start interfacing with microcontrollers mainly using Atmega32 microcontroller to understand different peripheral devices for connecting the digital world with the physical through microcontrollers.
+ 
+### Study materials
 
-interfacing using Atmega32 microcontroller
+- NTI diploma 
+- [Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 10 - 39)
 
 ## FreeRTOS 
 In Progress
