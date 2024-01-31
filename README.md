@@ -32,15 +32,17 @@
 - A recommended Book :  Grokking Algorithms. 
  
 ## Embedded C
-### compilation process 
 
-compilation process session Link:
+before starting you should have a good knowledge about [Digital Design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) and [Electrinics](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei) basics.
 
-### MCU archticture 
+### C Building process
+
+Learn the process behined getting the executable file from the source code ( C code ), including *preprocessor* , **compiler** , linker, toolchain, and memory sections, among others.
+
+[Building Process in Embedded C](https://www.youtube.com/playlist?list=PLvi6ckOTPjGY3B-0WgYzjmE7eeLDLVws1)
+
+### MCU archticture Fundamentals 
 MCU archticture session Link:
-
-## MCU Fundamentals
-MCU Fundamentals session Link:
 
 ## MCU Interfacing
 
