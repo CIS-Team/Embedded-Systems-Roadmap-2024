@@ -5,7 +5,7 @@
 
 
 ## 💻: C programming
- ### :✍️: Study Matrial:
+ ### ✍️ Study Matrial:
  - 📽️ complete C programming playlist NESO: [NESO Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 
  - 📘 this book is highly recommended: [K. N. King-C Programming_ A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
