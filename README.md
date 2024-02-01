@@ -72,7 +72,11 @@ Here we start to learn the internal structure of the processor
 ### In Progress
 
 ## Problem Solving
-see [CIS problem solving road map repo](https://github.com/CIS-Team/ProblemSolving-Squad)
+It is really desirable to acquire a problem-solver mentality
+
+this sheet is a good start [AL-Azhar Sheet](https://sites.google.com/view/azharicpc/)
+
+and for more help see [CIS problem solving road map repo](https://github.com/CIS-Team/ProblemSolving-Squad)
 
 ## computer science 
 
