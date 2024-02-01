@@ -3,8 +3,9 @@
 ![image](https://github.com/CIS-Team/Embedded-Systems-Roadmap-2024/assets/112733878/dcf7055a-104a-4a43-bf30-88110c880605)
 
 
-# what is Embedded Systems 
-Embedded System is an integrated system that is formed as a combination of computer hardware and software for a specific function.
+# What is Embedded Systems 
+Embedded System is an integrated system that is formed as a combination of computer hardware and software
+for a specific function.
 
 👉 take a look at [overview of embedded systems](https://www.youtube.com/watch?v=5qMG_IxSmQI)
 
