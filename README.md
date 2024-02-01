@@ -7,7 +7,7 @@
  ### Study Matrial:
  - 📽️ complete C programming playlist NESO: [NESO Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 
- - 📘 [K. N. King-C Programming_ A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
+ - 📘 this book is highly recommended: [K. N. King-C Programming_ A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
 
  ### Website for Practicing C programs 
  - [Hacker Rank](https://www.hackerrank.com/)
