@@ -59,7 +59,7 @@ Here we start to learn the internal structure of the processor
 - 📽️ NTI diploma 
 - 📽️ [Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 10 - 39)
 
-  **these are recommended cources before moving forward**
+**👉 these are some recommended tools to learn before moving forward**
   - [Cmake Basics](https://www.youtube.com/playlist?list=PLkH1REggdbJpG8fHZvivt-5Hlg3UZcJrK)
   - [Makefile Basics](https://www.youtube.com/playlist?list=PLkH1REggdbJpmQKm8Nu-H8R81_-c00fpB)
   - [Mastering GDB](https://www.youtube.com/watch?v=ygC-ySyNAWU&list=PLkH1REggdbJozCn0ftsshAPdetD6Bd4hz&pp=iAQB)
