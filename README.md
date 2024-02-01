@@ -3,8 +3,9 @@
 ![image](https://github.com/CIS-Team/Embedded-Systems-Roadmap-2024/assets/112733878/dcf7055a-104a-4a43-bf30-88110c880605)
 
 
+
 ## 💻: C programming
- ### Study Matrial:
+ ### :✍️: Study Matrial:
  - 📽️ complete C programming playlist NESO: [NESO Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
 
  - 📘 this book is highly recommended: [K. N. King-C Programming_ A Modern Approach](https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504)
@@ -21,7 +22,7 @@
 -  Books Library
 
  ## 📈 Data Structure & Algorithms
- ### Study Matrial
+ ### ✍️ Study Matrial
 - 📽️ linked list:  [NESO Academy](https://www.youtube.com/watch?v=R9PTBwOzceo&list=PLpYOpjNLz0aGIL9xaFHbw16uEmFxzy2rs)
  
 - 📽️ Data structures: [Dr Waleed Youssif](https://www.youtube.com/watch?v=cGgzFPRLl4o&list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
@@ -35,24 +36,24 @@
 
 before starting you should have a good knowledge about [Digital Design](https://www.youtube.com/playlist?list=PLoK2Lr1miEm8b6Vv5zAfsbMEPZ1C7fCQw) and [Electronics](https://www.youtube.com/playlist?list=PLww54WQ2wa5rOJ7FcXxi-CMNgmpybv7ei) basics.
 
-### C Building process
+### 🔷 C Building process
 Learning the process of getting the executable file from the source code (C code) including:
 `preprocessor`, `compiler`, `linker`, `toolchain`, `memory sections` and others..
 
-[Building Process in Embedded C](https://www.youtube.com/playlist?list=PLvi6ckOTPjGY3B-0WgYzjmE7eeLDLVws1)
+📽️ [Building Process in Embedded C](https://www.youtube.com/playlist?list=PLvi6ckOTPjGY3B-0WgYzjmE7eeLDLVws1)
 
-### MCU archticture Fundamentals 
+### 🔷 MCU archticture Fundamentals 
 Learning the Internal Structure of the Processor 
 
-[Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 1 - 9)
+📽️ [Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 1 - 9)
 
 ## MCU Interfacing
  Start interfacing with microcontrollers mainly using Atmega32 microcontroller to understand different peripheral devices for connecting the digital world with the physical through microcontrollers.
  
-### Study materials
+### ✍️ Study materials
 
-- NTI diploma 
-- [Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 10 - 39)
+- 📽️ NTI diploma 
+- 📽️ [Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 10 - 39)
 
 ## FreeRTOS 
 ### In Progress
