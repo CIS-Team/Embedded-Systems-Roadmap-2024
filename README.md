@@ -29,7 +29,7 @@
 - 📽️ sorting algorithms: [Sorting Algorithms playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U)
 
 - 📽️ searching algorithms: [Binary Search](https://youtu.be/kleyhFIsU5E?si=AF5bIkxAapUQN03v)
-- 📘 [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) 
+- 📘 interesting book that covers more algorithms: [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) 
  
 ## Embedded C
 
@@ -59,7 +59,7 @@ Learning the process of getting the executable file from the source code (C code
 ### In Progress
 
 ## Problem Solving
-see [CIS problem solving road map](https://github.com/CIS-Team/ProblemSolving-Squad)
+see [CIS problem solving road map repo](https://github.com/CIS-Team/ProblemSolving-Squad)
 
 ## computer science 
 
