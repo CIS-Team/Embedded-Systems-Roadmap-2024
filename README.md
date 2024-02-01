@@ -40,10 +40,14 @@ before starting you should have a good knowledge about [Digital Design](https://
 Learning the process of getting the executable file from the source code (C code) including:
 `preprocessor`, `compiler`, `linker`, `toolchain`, `memory sections` and others..
 
+ #### ✍️ Study Matrial:
+ 
 📽️ [Building Process in Embedded C](https://www.youtube.com/playlist?list=PLvi6ckOTPjGY3B-0WgYzjmE7eeLDLVws1)
 
 ### 🔷 MCU archticture Fundamentals 
-Learning the Internal Structure of the Processor 
+Here we start to learn the internal structure of the processor 
+
+ #### ✍️ Study Matrial:
 
 📽️ [Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 1 - 9)
 
