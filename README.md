@@ -42,6 +42,8 @@ Learning the process of getting the executable file from the source code (C code
 [Building Process in Embedded C](https://www.youtube.com/playlist?list=PLvi6ckOTPjGY3B-0WgYzjmE7eeLDLVws1)
 
 ### MCU archticture Fundamentals 
+Learning the Internal Structure of the Processor 
+
 [Embedded Systems Diploma in Arabic](https://youtube.com/playlist?list=PLoiqjtgvXf9e2VJk8GWEXwECPM_7JRwkE&feature=shared) (videos 1 - 9)
 
 ## MCU Interfacing
